@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<ProductsList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <exportedproducts>
+    <Product>
+      <Name>Wheat</Name>
+      <Country>Ukraine</Country>
+      <Volume>112</Volume>
+    </Product>
+    <Product>
+      <Name>Car</Name>
+      <Country>Germany</Country>
+      <Volume>83</Volume>
+    </Product>
+    <Product>
+      <Name>HIMARS</Name>
+      <Country>USA</Country>
+      <Volume>10</Volume>
+    </Product>
+    <Product>
+      <Name>Phone</Name>
+      <Country>China</Country>
+      <Volume>83</Volume>
+    </Product>
+    <Product>
+      <Name>Corn</Name>
+      <Country>Ukraine</Country>
+      <Volume>92</Volume>
+    </Product>
+  </exportedproducts>
+</ProductsList>
